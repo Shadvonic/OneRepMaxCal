@@ -14,9 +14,7 @@ Open the app
 Enter the weight lifted and reps completed in the text fields
 The app will automatically calculate and display your one rep max
 Scroll down to see the lift weight for various percentages of your one rep max
-Screenshots
-Screenshot 1
-Screenshot 2
+
 
 # Technologies Used
 Swift
