@@ -23,5 +23,8 @@ SwiftUI
 # Credits
 This app was created by Shadvonic. It was inspired by the One Rep Max Calculator on Bodybuilding.com.
 
-# License
-This project is licensed under the MIT License.
+# Demo 
+
+
+https://user-images.githubusercontent.com/73319722/224822237-df62dbc9-77e3-45cd-8fdf-bd4725c4c0b5.mp4
+
