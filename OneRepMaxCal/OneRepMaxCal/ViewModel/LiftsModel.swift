@@ -11,7 +11,7 @@ class LiftsViewModel: ObservableObject {
     @Published var lifts = [Lift]()
     
     func calculateOneRepMax(weight: String, reps: String) {
-        guard let weightDouble = Double(weight), let repsInt = Int(reps) else {
+        guard let weightDouble = Double(weight), let repsInt = Int(reps), repsInt >= 1 else {
             return
         }
         
